@@ -1,4 +1,4 @@
-````md id="h8m1xq"
+````md id="m5r9ka"
 <h1 align="center">🚀 Hi, I'm Prateek Verma</h1>
 
 <h3 align="center">💻 BCA Student | Web Developer | Aspiring Software Engineer</h3>
@@ -10,9 +10,11 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodewthPrateek&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/CodewthPrateek?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CodewthPrateek?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=prateekcodess&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/prateekcodess?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/stars/prateekcodess?style=for-the-badge" />
 </p>
 
 ---
@@ -21,9 +23,10 @@
 
 ## 🎓 About Me
 
-- 🎓 Pursuing **BCA (2026)** at **IP PG College Campus 2**
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** — Class of 2026
+- 🏫 Student at **IP PG College Campus 2**
 - 💻 Passionate about **Web Development & Software Development**
-- 🤖 Skilled with **ChatGPT, Gemini & Blackbox AI**
+- 🤖 Skilled in using **ChatGPT, Gemini & Blackbox AI**
 - 🎨 Interested in **Modern UI/UX Design**
 - 🚀 Currently Building:
   - 🛒 Shopping Platform
@@ -54,9 +57,7 @@
 # 💻 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,figma,vscode,git,github"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,figma,vscode,git,github" />
 </p>
 
 ---
@@ -65,15 +66,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodewthPrateek&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prateekcodess&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodewthPrateek&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekcodess&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewthPrateek&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekcodess&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -82,14 +83,14 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodewthPrateek&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prateekcodess&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Prateek github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodewthPrateek&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prateek github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekcodess&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -112,7 +113,7 @@
 # 🔝 Top Contributed Repo
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=CodewthPrateek&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=prateekcodess&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
@@ -130,11 +131,9 @@ const prateek = {
 
 ---
 
+<h3 align="center">🚀 Code • Learn • Build • Repeat</h3>
+
 <p align="center">
-
-### 🚀 “Code. Learn. Build. Repeat.”
-
-⭐ From [CodewthPrateek](https://github.com/CodewthPrateek)
-
+⭐ From <a href="https://github.com/prateekcodess">prateekcodess</a>
 </p>
 ```
